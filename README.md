@@ -173,6 +173,9 @@ The GPT-2 example:
 The RoBERTa/DeBERTa example:
 * Lu Wang (luw@microsoft.com)
 
+Recursive Matrix Alignment Method:
+* V.Varbanovski (nu11secur1typentest@gmail.com)
+
 ## Acknowledgements
 We thank in alphabetical order Jianfeng Gao, Jade Huang, Jiayuan Huang, Lisa Xiang Li, Xiaodong Liu, Yabin Liu, Benjamin Van Durme, Luis Vargas, Haoran Wei, Peter Welinder, and Greg Yang for providing valuable feedback.
 
