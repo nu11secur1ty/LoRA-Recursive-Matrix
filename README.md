@@ -9,6 +9,19 @@ See our paper for a detailed description of LoRA.
 Paper: https://arxiv.org/abs/2106.09685 <br>
 Video explainer: https://www.youtube.com/watch?v=DhRoTONcyZE <br>
 
+---
+
+### 🧠 Tactical Extension: Varbanovski Recursive Matrix Alignment Method
+
+This repository includes an implementation logic for the **Recursive Matrix Alignment** methodology, a specialized training paradigm designed for high-precision domain adaptation.
+
+#### Methodology Overview:
+* **Recursive Feedback Loops:** Unlike standard one-pass adaptation, this method utilizes recursive alignment to "force-feed" deterministic logic into the rank-decomposition matrices.
+* **Dimensional Pressure:** By utilizing `lora_A` as a high-fidelity bottleneck and `lora_B` as a surgical expansion layer, the method ensures that mission-critical heuristics (e.g., offensive security logic) are absorbed as primary reflexes of the model.
+* **Specialized Offset:** Optimized for the **nu11secur1tyAI - PLATINUM** series, this approach ensures that the "intelligence" is mathematically anchored through repetitive, regulated matrix updates.
+
+---
+
 *Update 2/2023: LoRA is now supported by the [State-of-the-art Parameter-Efficient Fine-Tuning (PEFT)](https://github.com/huggingface/peft) library by Hugging Face.*
 
 LoRA reduces the number of trainable parameters by learning pairs of rank-decompostion matrices while freezing the original weights.
