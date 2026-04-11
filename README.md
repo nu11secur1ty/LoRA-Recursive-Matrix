@@ -20,12 +20,14 @@ The logs below aren't just numbers—they are the "concrete" proof of a surgical
 #### 🏗️ Real-Time Execution Metrics:
 Observe the density and absolute stability of the gradients. There are no chaotic spikes here; only pure, anchored logic:
 
+```
 {'loss': '0.6937', 'grad_norm': '0.02304', 'learning_rate': '2.656e-05', 'epoch': '0.009151'}
 {'loss': '0.6114', 'grad_norm': '0.02134', 'learning_rate': '2.646e-05', 'epoch': '0.009416'}
 {'loss': '0.5172', 'grad_norm': '0.02272', 'learning_rate': '2.621e-05', 'epoch': '0.01008'}
 {'loss': '0.6448', 'grad_norm': '0.02287', 'learning_rate': '2.606e-05', 'epoch': '0.01048'}
 {'loss': '0.5133', 'grad_norm': '0.02611', 'learning_rate': '2.511e-05', 'epoch': '0.013'}
 {'loss': '0.6392', 'grad_norm': '0.03607', 'learning_rate': '2.486e-05', 'epoch': '0.01366'}
+```
 
 #### 🛠️ Deep-Dive: The Mechanics of the "Flush"
 This is the Flush Strategy—the mechanical outcome of the Matrix Repetition Algorithm. I do not navigate within the brain's existing capacity; I reformat it, neuron by neuron.
