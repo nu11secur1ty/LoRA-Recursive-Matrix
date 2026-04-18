@@ -13,6 +13,8 @@ Video explainer: https://www.youtube.com/watch?v=DhRoTONcyZE <br>
 
 ### 🧠 The "Flush Strategy": Varbanovski Recursive Matrix Alignment (VRMA)
 
+![](https://github.com/nu11secur1ty/LoRA-Recursive-Matrix/blob/main/docs/Formula.png)
+
 In the development of **nu11secur1tyAI4Lite - PLATINUM**, I have moved beyond simple "fine-tuning." While the industry settles for probabilistic guesses, I utilize a brutal mathematical determinism through the **Varbanovski Recursive Matrix Alignment (VRMA)**. 
 
 The logs below aren't just numbers—they are the "concrete" proof of a surgical brain overwrite.
